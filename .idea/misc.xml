@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UIWidgetTest/app/listview/src/main/res/layout/activity_list_view.xml" value="0.14351851851851852" />
+        <entry key="..\:/UIWidgetTest/app/listview_03/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/UIWidgetTest/app/listview_03/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/UIWidgetTest/app/listview_03/src/main/res/layout/activity_list_view.xml" value="0.1203125" />
+        <entry key="..\:/UIWidgetTest/app/listview_03/src/main/res/layout/activity_main.xml" value="0.18055555555555555" />
+        <entry key="..\:/UIWidgetTest/app/listview_03/src/main/res/layout/goods_item.xml" value="0.14351851851851852" />
+        <entry key="..\:/UIWidgetTest/app/listview_03/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.131" />
+        <entry key="..\:/UIWidgetTest/app/listview_test/src/main/res/layout/acticity_list_view.xml" value="0.18055555555555555" />
+        <entry key="..\:/UIWidgetTest/app/listview_test/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/UIWidgetTest/app/listview_test/src/main/res/layout/goods_item.xml" value="0.18055555555555555" />
+        <entry key="..\:/UIWidgetTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16" />
+        <entry key="..\:/UIWidgetTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16" />
+        <entry key="..\:/UIWidgetTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/UIWidgetTest/app/ui_test04/src/main/res/layout/activity_list_view.xml" value="0.14351851851851852" />
+        <entry key="..\:/UIWidgetTest/app/ui_test04/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/UIWidgetTest/app/ui_test04/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/UIWidgetTest/app/ui_test04/src/main/res/layout/activity_success.xml" value="0.1" />
+        <entry key="..\:/UIWidgetTest/app/uicustomview/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/UIWidgetTest/app/uicustomview/src/main/res/layout/title_layout.xml" value="0.15925925925925927" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
